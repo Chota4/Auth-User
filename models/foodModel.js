@@ -19,7 +19,7 @@ const createFoodTable = async () => {
   }
 };
 
-module.exports = {
+module.exports = {         
   createFoodTable
 };
 

@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pema2004Namgay/UserAuth.git"
+    "url": "git+https://github.com/Chota4/Auth-User.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pema2004Namgay/UserAuth/issues"
+    "url": "https://github.com/Chota4/Auth-User/issues"
   },
-  "homepage": "https://github.com/Pema2004Namgay/UserAuth#readme",
+  "homepage": "https://github.com/Chota4/Auth-User#readme",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "bcryptjs": "^3.0.2",
